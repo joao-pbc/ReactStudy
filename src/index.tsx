@@ -19,6 +19,4 @@ function BestSellingBooks() {
   )
 }
 
-
-
 ReactDOM.render(<BestSellingBooks />, document.getElementById('root'));
